@@ -1,2 +1,2 @@
-# ASD-Bus-configurator-
-Javascript car configurator
+# ASD-Bus-configurator
+Javascript 3D car configurator
