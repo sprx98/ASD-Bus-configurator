@@ -1,0 +1,28 @@
+{
+  "name": "development",
+  "version": "1.0.0",
+  "description": "Development setup for asd configurator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprx98/ASD-Bus-configurator.git"
+  },
+  "author": "Klemen Spruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprx98/ASD-Bus-configurator/issues"
+  },
+  "homepage": "https://github.com/sprx98/ASD-Bus-configurator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "three": "^0.120.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
